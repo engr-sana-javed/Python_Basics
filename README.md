@@ -12,3 +12,5 @@ Day 5 explains the use of set operations in Python.
 Day 6 contains practice questions related to if else and nested if else conditional statements.
 
 Day 7 focuses on while and for loops programs.
+
+Day 8 includes different exercises on functions.
