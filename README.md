@@ -14,3 +14,5 @@ Day 6 contains practice questions related to if else and nested if else conditio
 Day 7 focuses on while and for loops programs.
 
 Day 8 includes different exercises on functions.
+
+Day 9 consists of more questions on loops and functions.
